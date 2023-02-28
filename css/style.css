@@ -1,0 +1,43 @@
+.container{
+    margin: auto;
+    width: 550px;
+}
+body{
+    background-color: rgb(142, 123, 123);
+}
+header{
+    /* background-color: aqua; */
+    height: 60px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+nav{
+    background-color: chocolate;
+    height: 30px;
+    
+}
+main{
+    /* background-color: rgb(34, 170, 136); */
+    height: 200px;
+    text-align: center;
+    /* padding-top: 20px; */
+    padding-left: 100px;
+    padding-right: 100px ;
+    
+}
+footer{
+    background-color: orange;
+    height: 50px;
+   
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+p{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
