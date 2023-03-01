@@ -18,7 +18,6 @@ Used in this project:
 -Footer
 
 2- Css
-<<<<<<< HEAD
 
 -Height
 
@@ -26,5 +25,4 @@ Used in this project:
 
 -Padding
 
-=======
->>>>>>> c2ffc3d92c866dd39bd846dc62370c594da809a7
+
