@@ -1,6 +1,8 @@
 # Chess
 This project is made to learn Html Semantic elements and Css. Therefore it is not Responsible.
 
+![chessend](https://user-images.githubusercontent.com/103388852/222106952-0b5dca0a-8e15-44b5-8a11-7fbf4c133d80.png)
+
 Used in this project:
 
 1-Html
@@ -16,6 +18,7 @@ Used in this project:
 -Footer
 
 2- Css
+<<<<<<< HEAD
 
 -Height
 
@@ -23,3 +26,5 @@ Used in this project:
 
 -Padding
 
+=======
+>>>>>>> c2ffc3d92c866dd39bd846dc62370c594da809a7
